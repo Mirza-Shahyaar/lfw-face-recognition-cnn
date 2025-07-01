@@ -96,7 +96,7 @@ During training, accuracy and loss plots will be visualized to assess performanc
 
 **Mirza Shahyaar**  
 Deep Learning Enthusiast | Open to Collaborations  
-🔗 [LinkedIn](https://www.linkedin.com/in/mirza-shahyaar-b85292294/) &nbsp;&nbsp;🌐 [Portfolio](https://mirza-shahyaar.loveable.app)
+🔗 [LinkedIn](https://www.linkedin.com/in/mirza-shahyaar-b85292294/) &nbsp;&nbsp;🌐 [Portfolio](https://mirza-shahyaar.lovable.app)
 
 ---
 
